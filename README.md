@@ -4,4 +4,3 @@ Thakshila
 Gihara
 
 6
-
